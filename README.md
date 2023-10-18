@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SavuGust27
 - 👀 I’m interested in Architecture
 - 🌱 I’m currently learning how to grow a tarrarium
-- 💞️ I’m looking to collaborate on architecture software
 - 📫 How to reach me my email makerhodas@gmail.com
 
 <!---
